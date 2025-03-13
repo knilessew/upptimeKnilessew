@@ -9,10 +9,10 @@ sites:
     url: https://alpacamundo.eu
   - name: Alpacamundo API Healthcheck
     url: https://api.alpacamundo.eu/api/health
-    __dangerous__body_down_if_text_missing: "Healthy"
+    __dangerous__body_down_if_text_missing: '"Healthy"'
   - name: Alpacamundo DB Check
     url: https://api.alpacamundo.eu/api/alpacas
-    __dangerous__body_down_if_text_missing: "Healthy" 
+    __dangerous__body_down_if_text_missing: '"breed":"Huacaya"' 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
