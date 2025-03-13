@@ -4,12 +4,14 @@ repo: upptimeKnilessew # The name of this repository
 
 sites:
   - name: ThuisIP
+    check: "tcp-ping"
     url: 217.27.229.52
+    port: 443
   - name: Alpacamundo PRD
     url: https://alpacamundo.eu
   - name: Alpacamundo API Healthcheck
     url: https://api.alpacamundo.eu/api/health
-    __dangerous__body_down_if_text_missing: '"Healthy"'
+    __dangerous__body_down_if_text_missing: "Healthy"
   - name: Alpacamundo DB Check
     url: https://api.alpacamundo.eu/api/alpacas
     __dangerous__body_down_if_text_missing: '"breed":"Huacaya"' 
