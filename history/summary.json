@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "thuis-ip",
     "status": "up",
-    "uptime": "1.38%",
-    "uptimeDay": "1.38%",
-    "uptimeWeek": "1.38%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "1.38%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 189,
     "timeDay": 189,
     "timeWeek": 189,
     "timeMonth": 189,
     "timeYear": 189,
-    "dailyMinutesDown": {
-      "2025-03-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo PRD",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-api-healthcheck",
     "status": "up",
-    "uptime": "60.35%",
-    "uptimeDay": "60.35%",
-    "uptimeWeek": "60.35%",
-    "uptimeMonth": "60.35%",
-    "uptimeYear": "60.35%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 504,
     "timeDay": 504,
     "timeWeek": 504,
     "timeMonth": 504,
     "timeYear": 504,
-    "dailyMinutesDown": {
-      "2025-03-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo DB Check",
