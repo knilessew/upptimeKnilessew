@@ -1,5 +1,25 @@
 [
   {
+    "name": "ThuisIP",
+    "url": "217.27.229.52",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "thuis-ip",
+    "status": "down",
+    "uptime": "15.25%",
+    "uptimeDay": "15.25%",
+    "uptimeWeek": "15.25%",
+    "uptimeMonth": "15.25%",
+    "uptimeYear": "15.25%",
+    "time": 280,
+    "timeDay": 280,
+    "timeWeek": 280,
+    "timeMonth": 280,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2025-03-13": 0
+    }
+  },
+  {
     "name": "Alpacamundo PRD",
     "url": "https://alpacamundo.eu",
     "icon": "https://icons.duckduckgo.com/ip3/alpacamundo.eu.ico",
@@ -10,11 +30,49 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 916,
-    "timeWeek": 916,
-    "timeMonth": 916,
-    "timeYear": 916,
+    "time": 862,
+    "timeDay": 862,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Alpacamundo API Healthcheck",
+    "url": "https://api.alpacamundo.eu/api/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
+    "slug": "alpacamundo-api-healthcheck",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 638,
+    "timeDay": 638,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Alpacamundo DB Check",
+    "url": "https://api.alpacamundo.eu/api/alpacas",
+    "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
+    "slug": "alpacamundo-db-check",
+    "status": "down",
+    "uptime": "4.65%",
+    "uptimeDay": "4.65%",
+    "uptimeWeek": "4.65%",
+    "uptimeMonth": "4.65%",
+    "uptimeYear": "4.65%",
+    "time": 453,
+    "timeDay": 453,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
+    "dailyMinutesDown": {
+      "2025-03-13": 0
+    }
   }
 ]
