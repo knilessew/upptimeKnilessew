@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "thuis-ip",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
-    "time": 135,
-    "timeDay": 90,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
-    "dailyMinutesDown": {
-      "2025-03-15": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 137,
+    "timeDay": 124,
+    "timeWeek": 137,
+    "timeMonth": 137,
+    "timeYear": 137,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo PRD",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/alpacamundo.eu.ico",
     "slug": "alpacamundo-prd",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 679,
-    "timeDay": 508,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 694,
+    "timeDay": 687,
+    "timeWeek": 694,
+    "timeMonth": 694,
+    "timeYear": 694,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo PRD API Healthcheck",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-prd-api-healthcheck",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 564,
-    "timeDay": 538,
-    "timeWeek": 564,
-    "timeMonth": 564,
-    "timeYear": 564,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 576,
+    "timeDay": 533,
+    "timeWeek": 576,
+    "timeMonth": 576,
+    "timeYear": 576,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo PRD DB Check",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-prd-db-check",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 404,
-    "timeDay": 401,
-    "timeWeek": 404,
-    "timeMonth": 404,
-    "timeYear": 404,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 418,
+    "timeDay": 501,
+    "timeWeek": 418,
+    "timeMonth": 418,
+    "timeYear": 418,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo TST",
@@ -85,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 538,
-    "timeDay": 454,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 560,
+    "timeDay": 611,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo TST API Healthcheck",
@@ -105,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-healthcheck",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 511,
-    "timeDay": 448,
-    "timeWeek": 511,
-    "timeMonth": 511,
-    "timeYear": 511,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 555,
+    "timeDay": 681,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo TST DB Check",
@@ -125,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-db-check",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 391,
-    "timeDay": 360,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 407,
+    "timeDay": 461,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alpacamundo TST API Swagger",
@@ -145,18 +131,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-swagger",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 112,
-    "timeDay": 92,
-    "timeWeek": 112,
-    "timeMonth": 112,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2025-03-15": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 117,
+    "timeDay": 125,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
+    "dailyMinutesDown": {}
   }
 ]
