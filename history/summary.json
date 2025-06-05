@@ -94,19 +94,19 @@
     "url": "https://api-tst.alpacamundo.eu/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-healthcheck",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 634,
-    "timeWeek": 494,
-    "timeMonth": 514,
-    "timeYear": 516,
+    "time": 519,
+    "timeDay": 865,
+    "timeWeek": 586,
+    "timeMonth": 539,
+    "timeYear": 519,
     "dailyMinutesDown": {
-      "2025-06-05": 0
+      "2025-06-05": 5
     }
   },
   {
@@ -114,19 +114,19 @@
     "url": "https://api-tst.alpacamundo.eu/api/alpacas",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-db-check",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 237,
-    "timeWeek": 317,
-    "timeMonth": 368,
-    "timeYear": 382,
+    "time": 383,
+    "timeDay": 438,
+    "timeWeek": 375,
+    "timeMonth": 382,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-06-05": 0
+      "2025-06-05": 5
     }
   },
   {
@@ -134,19 +134,19 @@
     "url": "https://api-tst.alpacamundo.eu/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-swagger",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 121,
-    "timeWeek": 105,
-    "timeMonth": 111,
+    "timeDay": 151,
+    "timeWeek": 117,
+    "timeMonth": 114,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-05": 0
+      "2025-06-05": 5
     }
   }
 ]
