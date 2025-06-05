@@ -1,7 +1,7 @@
 url: https://api-tst.alpacamundo.eu/api/health
-status: down
-code: 502
-responseTime: 865
-lastUpdated: 2025-06-05T15:01:25.829Z
+status: up
+code: 200
+responseTime: 1327
+lastUpdated: 2025-06-05T15:06:44.158Z
 startTime: 2025-03-13T15:25:09.977Z
 generator: Upptime <https://github.com/upptime/upptime>
