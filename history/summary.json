@@ -94,53 +94,59 @@
     "url": "https://api-tst.alpacamundo.eu/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-healthcheck",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 402,
-    "timeWeek": 441,
-    "timeMonth": 503,
-    "timeYear": 515,
-    "dailyMinutesDown": {}
+    "time": 516,
+    "timeDay": 634,
+    "timeWeek": 494,
+    "timeMonth": 514,
+    "timeYear": 516,
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   },
   {
     "name": "Alpacamundo TST DB Check",
     "url": "https://api-tst.alpacamundo.eu/api/alpacas",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-db-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 323,
-    "timeWeek": 341,
-    "timeMonth": 375,
+    "timeDay": 237,
+    "timeWeek": 317,
+    "timeMonth": 368,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   },
   {
     "name": "Alpacamundo TST API Swagger",
     "url": "https://api-tst.alpacamundo.eu/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-swagger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 93,
-    "timeWeek": 99,
-    "timeMonth": 110,
+    "timeDay": 121,
+    "timeWeek": 105,
+    "timeMonth": 111,
     "timeYear": 112,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   }
 ]
