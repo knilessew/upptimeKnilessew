@@ -1,7 +1,7 @@
 url: https://api-tst.alpacamundo.eu/api/alpacas
-status: down
-code: 502
-responseTime: 95
-lastUpdated: 2025-06-11T12:27:43.120Z
+status: up
+code: 200
+responseTime: 324
+lastUpdated: 2025-06-11T13:04:50.660Z
 startTime: 2025-03-13T15:25:10.968Z
 generator: Upptime <https://github.com/upptime/upptime>
