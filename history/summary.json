@@ -4,19 +4,19 @@
     "url": "217.27.229.52",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "thuis-ip",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 111,
-    "timeDay": 105,
+    "timeDay": 97,
     "timeWeek": 94,
-    "timeMonth": 104,
+    "timeMonth": 103,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-06-11": 4
+      "2025-06-11": 41
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://alpacamundo.eu",
     "icon": "https://icons.duckduckgo.com/ip3/alpacamundo.eu.ico",
     "slug": "alpacamundo-prd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 559,
-    "timeWeek": 561,
-    "timeMonth": 601,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 641,
+    "timeDay": 519,
+    "timeWeek": 551,
+    "timeMonth": 597,
+    "timeYear": 641,
     "dailyMinutesDown": {
-      "2025-06-11": 4
+      "2025-06-11": 41
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.alpacamundo.eu/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-prd-api-healthcheck",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 566,
-    "timeWeek": 473,
-    "timeMonth": 503,
-    "timeYear": 534,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
+    "time": 533,
+    "timeDay": 481,
+    "timeWeek": 464,
+    "timeMonth": 500,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2025-06-11": 1
+      "2025-06-11": 38
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api.alpacamundo.eu/api/alpacas",
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-prd-db-check",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 383,
-    "timeDay": 439,
-    "timeWeek": 353,
-    "timeMonth": 365,
+    "timeDay": 396,
+    "timeWeek": 348,
+    "timeMonth": 364,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 37
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://tst.alpacamundo.eu",
     "icon": "https://icons.duckduckgo.com/ip3/tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 521,
-    "timeDay": 491,
-    "timeWeek": 489,
-    "timeMonth": 508,
+    "timeDay": 454,
+    "timeWeek": 477,
+    "timeMonth": 504,
     "timeYear": 521,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 37
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://api-tst.alpacamundo.eu/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-healthcheck",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 518,
-    "timeDay": 548,
-    "timeWeek": 597,
-    "timeMonth": 528,
+    "timeDay": 499,
+    "timeWeek": 579,
+    "timeMonth": 524,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 37
     }
   },
   {
@@ -124,19 +124,19 @@
     "url": "https://api-tst.alpacamundo.eu/api/alpacas",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-db-check",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 381,
-    "timeDay": 230,
-    "timeWeek": 341,
-    "timeMonth": 360,
+    "timeDay": 261,
+    "timeWeek": 340,
+    "timeMonth": 359,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 37
     }
   },
   {
@@ -144,19 +144,19 @@
     "url": "https://api-tst.alpacamundo.eu/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-swagger",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.97%",
     "time": 112,
-    "timeDay": 101,
-    "timeWeek": 113,
+    "timeDay": 98,
+    "timeWeek": 111,
     "timeMonth": 109,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-06-11": 0
+      "2025-06-11": 37
     }
   }
 ]
