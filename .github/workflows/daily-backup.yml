@@ -11,8 +11,6 @@ on:
 jobs:
   backup:
     runs-on: ubuntu-latest
-      permissions:
-        contents: read # checkout action needs this permission
 
     steps:
     - name: Checkout repository
