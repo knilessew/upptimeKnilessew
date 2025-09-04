@@ -1,23 +1,31 @@
 name: Daily Backup
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 1 * * *'  # 03:00 Nederlandse tijd (CEST = UTC+2)
-  workflow_dispatch:      # Handmatige trigger blijft beschikbaar
+    - cron: '0 1 * * *'  # 03:00 Dutch time (01:00 UTC)
+  workflow_dispatch:      # manual trigger from Actions tab
 
 jobs:
   backup:
     runs-on: ubuntu-latest
+      permissions:
+        contents: read # checkout action needs this permission
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1  # We only need latest commit
 
-    - name: Maak zip van repository
-      run: zip -r repo-backup.zip .
+    - name: Create archive of repository
+      run: zip -r repo-backup.zip . =x "*.git*"
 
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
         name: repo-backup
         path: repo-backup.zip
+        retention-days: 7  # Keep backups for 7 days
