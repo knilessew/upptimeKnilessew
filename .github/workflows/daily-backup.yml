@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - master # i have master
   schedule:
     - cron: '0 1 * * *'  # 03:00 Dutch time (01:00 UTC)
   workflow_dispatch:      # manual trigger from Actions tab
