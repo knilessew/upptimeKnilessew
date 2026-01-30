@@ -4,9 +4,9 @@
     "url": "217.27.229.52",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "thuis-ip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 41
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://alpacamundo.eu",
     "icon": "https://icons.duckduckgo.com/ip3/alpacamundo.eu.ico",
     "slug": "alpacamundo-prd",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 770,
     "timeYear": 690,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 41
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://api.alpacamundo.eu/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-prd-api-healthcheck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -56,6 +58,7 @@
     "timeMonth": 630,
     "timeYear": 570,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 38
     }
   },
@@ -64,9 +67,9 @@
     "url": "https://api.alpacamundo.eu/api/alpacas",
     "icon": "https://icons.duckduckgo.com/ip3/api.alpacamundo.eu.ico",
     "slug": "alpacamundo-prd-db-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +79,7 @@
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 37
     }
   },
@@ -84,9 +88,9 @@
     "url": "https://tst.alpacamundo.eu",
     "icon": "https://icons.duckduckgo.com/ip3/tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -96,6 +100,7 @@
     "timeMonth": 628,
     "timeYear": 565,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 37
     }
   },
@@ -104,9 +109,9 @@
     "url": "https://api-tst.alpacamundo.eu/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-healthcheck",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -116,6 +121,7 @@
     "timeMonth": 575,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 37
     }
   },
@@ -124,9 +130,9 @@
     "url": "https://api-tst.alpacamundo.eu/api/alpacas",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-db-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -136,6 +142,7 @@
     "timeMonth": 400,
     "timeYear": 392,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 37
     }
   },
@@ -144,9 +151,9 @@
     "url": "https://api-tst.alpacamundo.eu/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-tst.alpacamundo.eu.ico",
     "slug": "alpacamundo-tst-api-swagger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -156,6 +163,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
+      "2026-01-30": 0,
       "2025-06-11": 37
     }
   }
