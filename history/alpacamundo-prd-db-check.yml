@@ -1,7 +1,7 @@
 url: https://api.alpacamundo.eu/api/alpacas
-status: up
-code: 200
-responseTime: 517
-lastUpdated: 2026-02-04T23:35:45.366Z
+status: down
+code: 502
+responseTime: 154
+lastUpdated: 2026-02-05T18:07:45.075Z
 startTime: 2025-03-13T15:25:08.201Z
 generator: Upptime <https://github.com/upptime/upptime>
