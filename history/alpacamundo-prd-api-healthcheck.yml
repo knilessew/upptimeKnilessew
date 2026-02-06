@@ -1,7 +1,7 @@
 url: https://api.alpacamundo.eu/api/health
-status: down
-code: 502
-responseTime: 796
-lastUpdated: 2026-02-05T23:31:45.176Z
+status: up
+code: 200
+responseTime: 712
+lastUpdated: 2026-02-06T09:06:24.299Z
 startTime: 2025-03-13T15:25:07.204Z
 generator: Upptime <https://github.com/upptime/upptime>
