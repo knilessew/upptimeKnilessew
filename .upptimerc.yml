@@ -16,7 +16,7 @@ delay: 1000 # 1second
 sites:
   - name: ThuisIP
     check: "tcp-ping"
-    url: 217.27.229.52
+    url: 217.27.224.237
     port: 443
   - name: Alpacamundo PRD
     url: https://alpacamundo.eu
