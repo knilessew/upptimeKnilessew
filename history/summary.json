@@ -4,11 +4,11 @@
     "url": "217.27.224.237",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "thuis-ip",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.07%",
     "time": 115,
     "timeDay": 159,
@@ -25,7 +25,8 @@
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 384,
-      "2026-04-24": 120
+      "2026-04-24": 120,
+      "2026-07-25": 2
     }
   },
   {
