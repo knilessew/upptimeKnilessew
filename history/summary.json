@@ -4,16 +4,16 @@
     "url": "https://alpacamundo.eu",
     "icon": "https://icons.duckduckgo.com/ip3/alpacamundo.eu.ico",
     "slug": "alpacamundo-prd",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.93%",
     "time": 732,
-    "timeDay": 364,
-    "timeWeek": 523,
-    "timeMonth": 548,
+    "timeDay": 433,
+    "timeWeek": 528,
+    "timeMonth": 549,
     "timeYear": 730,
     "dailyMinutesDown": {
       "2026-03-06": 58,
@@ -22,7 +22,7 @@
       "2026-04-24": 118,
       "2026-08-17": 49,
       "2026-09-29": 18,
-      "2026-11-03": 2
+      "2026-11-03": 6
     }
   },
   {
